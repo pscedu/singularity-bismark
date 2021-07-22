@@ -4,6 +4,7 @@
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Biological Sciences"
 -- "Description: A tool to map bisulfite converted sequence reads and determine cytosine methylation states."
+-- "Keywords: singularity bioinformatics"
 
 whatis("Name: bismark")
 whatis("Version: 0.22.3")
