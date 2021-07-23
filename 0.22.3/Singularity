@@ -8,8 +8,3 @@ From: quay.io/biocontainers/bismark:0.22.3--0
     REPOSITORY https://github.com/pscedu/singularity-bismark
     COPYRIGHT Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved.
     VERSION 0.22.3
-
-%post
-   rm /etc/resolv.conf
-
-####################################################################################
