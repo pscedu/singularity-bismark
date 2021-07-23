@@ -13,8 +13,9 @@ Copy the
 * `SIF` file
 * and the `bismark` script
 
-to `/opt/packages/bismark/0.22.3
-Copy the file `modulefile.lua` to `/opt/modulefiles/samtools` as `0.22.3.lua`.
+to `/opt/packages/bismark/0.22.3`
+
+Copy the file `modulefile.lua` to `/opt/modulefiles/bismark` as `0.22.3.lua`.
 
 ## Building the image using the recipe
 ### To build the image locally
