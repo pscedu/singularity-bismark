@@ -19,7 +19,7 @@ bismark 0.22.3
 Description
 -----------
 A tool to map bisulfite converted sequence reads and determine cytosine methylation states.
-
+  
 To load the module, type
 
 > module load bismark/0.22.3
