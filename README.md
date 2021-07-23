@@ -5,15 +5,15 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-bismark)
 
 # singularity-bismark
-Singularity recipe for [bismark](https://github.com/sandialabs/bismark).
+Singularity recipe for [bismark](https://github.com/FelixKrueger/Bismark).
 
 ## Installing the container on Bridges 2
 Copy the
 
 * `SIF` file
-* and the `samtools` script
+* and the `bismark` script
 
-to `/opt/packages/samtools/0.22.3
+to `/opt/packages/bismark/0.22.3
 Copy the file `modulefile.lua` to `/opt/modulefiles/samtools` as `0.22.3.lua`.
 
 ## Building the image using the recipe
